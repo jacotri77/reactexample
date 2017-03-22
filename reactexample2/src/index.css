@@ -1,0 +1,30 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+.firstlikes{
+	height: 300px;
+	width: 600px;
+	font-size: 108px;
+	color: white;
+	border-radius:20px;
+	background-color: rgb(39,137,202);
+	border-bottom: 20px solid rgb(33,126,182);
+	justify-content: center;
+	outline:none;
+	text-shadow: 2px 2px #ccc;
+
+}
+.buttons{
+	height: 300px;
+	width: 600px;
+	font-size: 108px;
+	color: white;
+	border-radius:20px;
+	background-color: rgb(39,137,202);
+	justify-content: center;
+	outline:none;
+	text-shadow: 2px 2px #ccc;
+}
